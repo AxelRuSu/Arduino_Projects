@@ -20,6 +20,7 @@ void setup() {
 
 void loop() {
   //Prints the RSSI, higher value => better strength
-  Serial.printf("RSSI: %d dBm\n", WiFi.RSSI()); 
+  Serial.printf("RSSI: %d dBm\n", WiFi.RSSI())
+  //Printing interval
   delay(1000);
 }
