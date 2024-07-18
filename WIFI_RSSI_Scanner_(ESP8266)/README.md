@@ -1,1 +1,1 @@
-A simple WIFI RSSI scanner for testing your WIFI signal
+A simple WIFI RSSI scanner for testing your WIFI signal. Prints to serial monitor
