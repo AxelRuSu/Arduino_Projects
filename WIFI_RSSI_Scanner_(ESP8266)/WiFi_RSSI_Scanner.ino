@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "your_wifi_ssid/(wifi name)";
-const char* password = "your_wifi_password";
+const char* ssid = "your wifi ssid";
+const char* password = "your wifi password";
  
 void setup() {
   Serial.begin(115200);
